@@ -1,0 +1,1 @@
+We've learned to use git add and .gitignore
